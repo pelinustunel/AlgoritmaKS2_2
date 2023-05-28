@@ -1,8 +1,10 @@
 # PROGRAM NASIL ÇALIŞTIRILIR
 
-• İlk olarak python kullanıldığı için python çalıştırabilecek bir ide’yi kurmamız gerekir. Bu proje PyCharm CE ide'sinde oluşturulmuştur.
+• İlk olarak python kullanıldığı için python çalıştırabilecek bir ide’yi kurmanız gerekir. Bu proje PyCharm CE ide'sinde oluşturulmuştur.
 
 • Sonraki adım olarak kurduğumuz ide de proje oluşturulur.
+
+• main.py oluşturulan proje içine aktarılır.
 
 • Proje oluştuktan sonra opencv yi kullanabilmek için gerekli kütüphaneler yüklenmelidir.
 
