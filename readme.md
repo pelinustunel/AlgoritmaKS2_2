@@ -12,4 +12,4 @@
 
 • Daha sonra belirtilen ALGORTIMA_ANALIZI_ODEV_SOURCES.zip dosyasını indirip dosyayı açıp belirli bir alana yapıştırdıktan sonra kodun içine dosya yolunu göstermeniz gerekir.
 
-• Bu işlemleri yaptıktan sonra projeyi çalıştırabilirsiniz.
+• Bu işlemleri yaptıktan sonra projeyi çalıştırabilirsiniz. Projenin çalışması 3-4 dakika sürebilir.
